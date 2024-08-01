@@ -1,9 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<h1 align="center" style="color:#1E90FF;">Olá, eu sou o Pedro Rômulo! 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Rômulo;I'm+15+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="center" style="color:#4682B4;">
+  Tenho 15 anos, moro no Brasil e sou um cientista de dados apaixonado!
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cientista%20de%20Dados-Azul?style=for-the-badge&logo=python&logoColor=white" alt="Cientista de Dados">
+</p>
 
-
-Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+<p align="center">
+  <a href="https://github.com/pedroromulo">
+    <img src="https://img.shields.io/github/followers/pedroromulo?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+</p>
