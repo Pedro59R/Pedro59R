@@ -18,8 +18,7 @@ Skills
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Ciência de Dados, e atuamente tenho 15 anos, disponivel apenas no turno da manhã apartir de 7 horas!
   
 #
 
